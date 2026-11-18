@@ -22,9 +22,6 @@ Services I used were S3 buckets, policies, objects, policies Key concepts I lear
 
 This project took me approximately 30 minutes to complete. The most challenging part was the JSON bucket policy. It was most rewarding to see the website working.
 
-### ❤️ Thanks for doing this project!
-
-I chose to do this project today because I want to become more comfortable with AWS and could services. Something that would make learning with NextWork even better is I do not know its pretty good.
 
 ## How I Set Up an S3 Bucket
 
